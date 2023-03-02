@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushbat&label=Profile%20views&color=0e75b6&style=flat" alt="ayushbat" /> </p>
 
-- 🌱 I’m currently learning **JavaScript, HTML, CSS, JQuery, Bootstrap, ReactJS**
+- 🌱 I’m currently learning **JavaScript, HTML, CSS, JQuery, Bootstrap, ReactJS, Tailwind, WordPress**
 
 - 📫 How to reach me **abatdelger@outlook.com**
 
