@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **sql, excel, tableau and powerbi.**
 
-- 📫 How to reach me **abatdelger@outlook.com**
+- 📫 How to reach me **ayushstern@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
